@@ -2,14 +2,25 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This blog is a continuation of my resurrected blog that was started in 2010.  
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I will be continuing to document the projects that I do with hobbies and interests.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+-Photography
+-Astrophotography
+-Radio Astronomy
+-Woodworking
+-Metalworking
+-3d printing
+-Software Development
+-Puppets
+
+I am currently located in the Denver area.
+
+If you have any question email me at ben@treegecko.com
+
+Thanks,
+Brian
