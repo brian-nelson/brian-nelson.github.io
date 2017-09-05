@@ -21,3 +21,5 @@ github_username:  brian-nelson
 markdown: kramdown
 
 theme: jekyll-theme-midnight
+
+paginate: 10
