@@ -16,7 +16,7 @@ I shot with a Sony Alpha 1 and a Sony Alpha 57.  The Alpha 1 was hand held.  The
 ![Partial]({{site.baseurl}}//images/20170821/total1.jpg)
 
 ### Totality on the Alpha 100
-![Partial]({{site.baseurl}}//images/20170821/partial2.jpg)
+![Partial]({{site.baseurl}}//images/20170821/total2.jpg)
 
 ### Ending Totality on a Sony Nex3
 This image was shot by my daughter on a Nex3
