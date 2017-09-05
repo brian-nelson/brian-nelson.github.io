@@ -10,9 +10,10 @@ title: Personal Projects and Interests
 email: ben@treegecko.com
 description: > # this means to ignore newlines until "baseurl:"
   Hobbies, projects and other personal interests.
-baseurl: "" # the subpath of your site, e.g. /blog
 
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://treegecko.com"
+
 twitter_username: brian_e_nelson
 github_username:  brian-nelson
 
