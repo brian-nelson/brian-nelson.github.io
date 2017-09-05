@@ -1,6 +1,10 @@
 ---
 published: false
 ---
-## A New Post
+## Eclipse Viewing in Guernsey Wyoming
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+I spent the weekend of the 2017 Eclipse in Guernsey Wyoming.  The Wyoming Parks system did an excellent job managing all of the people.  We had wonderful weather and it ended up being an really memorable weekend.
+
+The most memorable part of the experience, and one that I wasn't able to capture on camera, was the 360 degree sunset that the shadow provided.  Beautiful in all directions.
+
+I shot with a Sony Alpha 1 and a Sony Alpha 57.  The Alpha 1 was hand held.  The Alpha 57 was mounted on a portable iOptron SmartEq Goto Mount.
