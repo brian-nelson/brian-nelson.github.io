@@ -10,15 +10,15 @@ The most memorable part of the experience, and one that I wasn't able to capture
 I shot with a Sony Alpha 1 and a Sony Alpha 57.  The Alpha 1 was hand held.  The Alpha 57 was mounted on a portable iOptron SmartEq Goto Mount.
 
 ### Partial Exclipse
-![Partial]({{site.baseurl}}//images/20170821/partial1.jpg)
+![Partial]({{site.baseurl}}//images//20170821//partial1.jpg)
 
 ### Totality on the Alpha 57
-![Partial]({{site.baseurl}}//images/20170821/total1.jpg)
+![Totality]({{site.baseurl}}//images//20170821//total1.jpg)
 
 ### Totality on the Alpha 100
-![Partial]({{site.baseurl}}//images/20170821/total2.jpg)
+![Totality]({{site.baseurl}}//images//20170821//total2.jpg)
 
 ### Ending Totality on a Sony Nex3
 This image was shot by my daughter on a Nex3
 
-![Partial]({{site.baseurl}}//images/20170821/endingtotality.jpg)
+![Ending]({{site.baseurl}}//images//20170821//endingtotality.jpg)
