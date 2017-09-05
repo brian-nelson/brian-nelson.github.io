@@ -6,5 +6,5 @@ The most memorable part of the experience, and one that I wasn't able to capture
 
 I shot with a Sony Alpha 1 and a Sony Alpha 57.  The Alpha 1 was hand held.  The Alpha 57 was mounted on a portable iOptron SmartEq Goto Mount.
 
-
+![Partial Eclipse 1]({{site.baseurl}}//DSC07529.jpg)
 
