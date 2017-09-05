@@ -8,3 +8,5 @@ I spent the weekend of the 2017 Eclipse in Guernsey Wyoming.  The Wyoming Parks 
 The most memorable part of the experience, and one that I wasn't able to capture on camera, was the 360 degree sunset that the shadow provided.  Beautiful in all directions.
 
 I shot with a Sony Alpha 1 and a Sony Alpha 57.  The Alpha 1 was hand held.  The Alpha 57 was mounted on a portable iOptron SmartEq Goto Mount.
+
+
