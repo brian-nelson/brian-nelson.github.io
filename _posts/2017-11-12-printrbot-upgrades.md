@@ -11,4 +11,4 @@ I started having issues with the spools on my 3d printer getting stuck in the sc
 I also recently broke the original Ubis 13 print head.  I purchased the newer Ubis 13s head and have it installed.  I still need to get the fan and shroud for it installed.  The shroud is printed, and fan on order.
 
 ### Ubis 13s
-![Fixed]({{site.baseurl}}//images/20171112/ubis13s.png)
+![ubis13s]({{site.baseurl}}//images/20171112/ubis13s.png)
